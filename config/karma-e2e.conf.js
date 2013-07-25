@@ -8,7 +8,8 @@ files = [
 
 autoWatch = false;
 
-browsers = ['Chrome'];
+//browsers = ['Chrome'];
+browsers = ['C:/Program Files (x86)/Google/Chrome/Application/chrome.exe'];
 
 singleRun = true;
 
